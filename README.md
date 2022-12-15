@@ -9,13 +9,13 @@
 
 ##ENV SMTP Setting for Local Server
 
-MAIL_DRIVER=smtp
-MAIL_HOST=smtp.gmail.com
-MAIL_PORT=587
-MAIL_USERNAME= your_email_address
-MAIL_PASSWORD= ypur_app_password_from_gmail
-MAIL_ENCRYPTION=tls
-MAIL_FROM_ADDRESS=your_email_address
+- MAIL_DRIVER=smtp
+- MAIL_HOST=smtp.gmail.com
+- MAIL_PORT=587
+- MAIL_USERNAME= your_email_address
+- MAIL_PASSWORD= ypur_app_password_from_gmail
+- MAIL_ENCRYPTION=tls
+- MAIL_FROM_ADDRESS=your_email_address
 
 ## About Laravel
 
